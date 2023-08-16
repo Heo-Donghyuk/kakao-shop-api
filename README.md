@@ -64,7 +64,7 @@
 ```text
 host : localhost:8080
 
-1. git clone https://github.com/codingspecialist/kakao-shop-api.git
+1. git clone https://github.com/Heo-Donghyuk/kakao-shop-api.git
 2. 다운 받은 프로젝트 폴더(kakao-shop-api) 내부로 들어가서 git bash를 열어주세요. Mac 사용자는 터미널을 이용해서 해당 경로로 가세요.
 3. ./gradlew clean build
 4. 윈도우 사용자는 git bash를 이용하여 터미널을 열고 3번 명령어를 실행해주세요.
